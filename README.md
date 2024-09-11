@@ -1,4 +1,4 @@
-Hi! I am Naman Kumar,
+Hi! I am Naman Kumar,                                                                  
 -🖥️ I’m currently learning Full Stack Development.
 -📊 Learning in depth for Data Structures & Algorithms.
 -🌐 I am passionate in Web Development.
